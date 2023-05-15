@@ -11,3 +11,4 @@
 | `&` | Indicates that the specified job should be executed in the background | `sleep 1&` |
 
 #### For more information on implementation read `REPORT.md`
+#### Use the makefile to run
