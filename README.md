@@ -13,5 +13,5 @@
 #### For more information on implementation read `REPORT.md`
 #### Use the makefile to run
 
--Download all files from frontend folder.
--Download effnetLArch and effnetMArch from 
+- Download all files from frontend folder.
+- Download effnetLArch and effnetMArch from 
